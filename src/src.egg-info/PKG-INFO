@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small example package for movies recommendation
+Author: Rama
+Author-email: rama3017krishna@gmail.com
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit

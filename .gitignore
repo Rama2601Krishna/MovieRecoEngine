@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environment
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# macOS Finder metadata
+.DS_Store
+
+# Logs
+*.log
+
+# SQLite database
+*.sqlite3
+
+#Pickle files
+*.pkl
+
+#Data
+*.csv
